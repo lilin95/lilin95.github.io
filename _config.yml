@@ -1,0 +1,10 @@
+# Site settings
+title: Lin's Website
+email: lilin950715@126.com
+description: Lin is from Beijing, China
+url: lilin95.github.io
+github_username: lilin95
+
+# Build settings
+markdown: kramdown
+permalink: pretty
